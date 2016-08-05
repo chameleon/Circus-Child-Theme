@@ -1,0 +1,21 @@
+/*
+ Theme Name:     Circus Child Theme
+ Theme URI:      
+ Description:    Circus Child Theme
+ Author:         Joe UX Designer
+ Author URI:     http:
+ -------template - Very Important! This is the folder name of the parent theme.
+ Template:       circus
+ Version:        1.0.0
+
+ As a CHILD theme root's style.css - this file OVERRIDES styles in parent theme root's style.css
+as well as any other css files named as dependencies in the child's function'php
+*/
+ 
+ /*  The OLD way is depricated... use enqueue in functions.php instead. */
+/*@import url("../circus/style.css");*/
+
+ 
+/* =Theme customization starts here   - test
+------------------------------------------------------- */
+h1 {color: #8F080E;}
