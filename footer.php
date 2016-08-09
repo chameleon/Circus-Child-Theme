@@ -10,11 +10,7 @@
 			</div>
 			<div class='col-xs-12 col-sm-4'>
 				This is the child theme's footer.php file.  It completely replaces the file with the same name in the parent folder.  (There is no WordPress links menu in this version of the footer.)
-				<!-- <?php
-					if(function_exists('hello_world')) {
-						hello_world();
-					}
-				?> -->
+
 			</div>
 		</div>
 		</footer>
